@@ -52,57 +52,6 @@
     flex-basis: 180px;
 }
 
-
- 
-
-
-
-
-
-
-.card2{
-background-color: blue;
-    border: 5px solid black;
-    
-    min-width: 20px;
-    min-height: 40px;
-    margin: 10px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: baseline;
-    flex-basis: 70px;
-}
-
-.card6{
-background-color: blue;
-    border: 5px solid black;
-    
-    min-width: 20px;
-    min-height: 40px;
-    margin: 10px;
-    display: flex;
-    flex-direction: row;
-    justify-content: left;
-    align-self:flex-end;
-    flex-basis: 70px;
-}
-
-
-.card3{
-background-color: blue;
-    border: 5px solid black;
-    
-    width: 20px;
-    height: 40px;
-    margin: 2px;
-    display: flex;
-    flex-direction: column;
-    justify-content: left;
-    align-items: start;
-    flex-basis: 70px;
-}
-
 .cardone{
     background-color: darkcyan;
     border: 5px solid black;
@@ -118,75 +67,13 @@ background-color: blue;
 
 
 
-.card4{
-    background-color: yellow;
-    border: 5px solid black;
-    display: flex;
-    width: 30px;
-    height: 40px;
-    margin: 3px;
-    
-    flex-direction: row;
-    justify-content: center;
-    align-items: baseline;
-    flex-basis: 70px;
-}
 
-.cardtwo{
-background-color: darkcyan;
-    border: 5px solid black;
-    border-radius: 15px;
-    min-width: 320px;
-    min-height: 40px;
-    margin: 10px;
-    display: flex;
-    
-    justify-content: flex-start;
-    align-items: flex-start;
-    flex-basis: 70px;
-}
 
-.card51{
-    background-color: blue;
-    border: 5px solid black;
-    
-    width: 60px;
-    min-height: 40px;
-    margin: 2px;
-    flex-grow: 1;
-    flex-direction: row;
-    justify-content: center;
-    
-    flex-basis: 70px;
-}
 
-.card52{
-    background-color: blue;
-    border: 5px solid black;
-    
-    width: 60px;
-    min-height: 40px;
-    margin: 2px;
-    flex-grow: 2;
-    flex-direction: row;
-    justify-content: center;
-    
-    flex-basis: 70px;
-}
 
-.card53{
-    background-color: blue;
-    border: 5px solid black;
-    
-    width: 60px;
-    min-height: 40px;
-    margin: 2px;
-    flex-grow: 3;
-    flex-direction: row;
-    justify-content: center;
-    
-    flex-basis: 70px;
-}
+
+
+
 
 
 
