@@ -1,0 +1,53 @@
+.body {
+    
+    margin: 0;
+}
+
+.flex__example1 {
+    height: 60vh; 
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.container1 {
+    border: 5px dotted coral;
+    
+    width: 100%;
+    min-height: 100%;
+    padding: 25px 0;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aquamarine;
+
+}
+
+.card {
+    background-color: darkcyan;
+    border: 5px solid black;
+    border-radius: 15px;
+    min-width: 320px;
+    min-height: 40px;
+    margin: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-basis: 180px;
+}
+
+.card1 {
+    background-color: darkcyan;
+    border: 5px solid black;
+    border-radius: 15px;
+    min-width: 320px;
+    min-height: 40px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    flex-basis: 180px;
+}
