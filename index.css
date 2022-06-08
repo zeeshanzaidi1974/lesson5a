@@ -14,7 +14,7 @@
     
 }
 
-.container1 {
+.containera {
     border: 5px dotted coral;
     
     width: 100%;
@@ -26,7 +26,7 @@
 
 }
 
-.card {
+.carda {
     background-color: darkcyan;
     border: 5px solid black;
     border-radius: 15px;
@@ -39,7 +39,7 @@
     flex-basis: 180px;
 }
 
-.card1 {
+.cardb {
     background-color: darkcyan;
     border: 5px solid black;
     border-radius: 15px;
@@ -52,7 +52,7 @@
     flex-basis: 180px;
 }
 
-.cardone{
+.cardc{
     background-color: darkcyan;
     border: 5px solid black;
     border-radius: 15px;
